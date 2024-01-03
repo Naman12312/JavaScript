@@ -1,0 +1,23 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+
+.bulbcon {
+	width: 334px;
+	height: 334px;
+
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}

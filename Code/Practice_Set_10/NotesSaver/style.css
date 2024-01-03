@@ -1,0 +1,27 @@
+#namefornote {
+    position: relative;
+
+    height: 54px;
+    margin: 0 auto;
+
+    width: 455px;
+    display: block;
+    bottom: 244px;
+}
+
+
+#notes {
+    position: relative;
+    top: 157px;
+    width: 612px;
+    display: block;
+    left: 486px;
+}
+
+
+#btn{
+    position: relative;
+    left: 1200px;
+    top: 300px;
+    /* background-color: #0a67b1; */
+}

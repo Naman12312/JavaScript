@@ -1,0 +1,68 @@
+.container{
+    border: 2px solid wheat;
+    width: 36%;
+    height: 250px;
+    background-color: black;
+}
+#date1{
+    display: block;
+    font-family: ubuntu;
+    margin-left:195px;
+    width: 30%;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+}
+h1{
+    position: relative;
+    top: 45px;
+    left: 93px;
+    display: inline ;
+    font-family: ubuntu;
+    
+    color: rgb(255, 255, 255);
+    font-size: 81px;
+    width: 82%;
+    margin: auto;
+}
+
+#hour{
+    position: relative;
+    top:-43px;
+    left: 115px;
+    color:white;
+    font-size: 24px;
+
+}
+
+
+#min{
+    position: relative;
+    top: 10px;
+    left: 260px;
+    color:white;
+    font-size: 24px;
+
+}
+
+#sec{
+    position: relative;
+    bottom: 94px;
+    left: 420px;
+    color:white;
+    font-size: 24px;
+
+}
+
+#date{
+    font-size: 24px;
+    position: relative;
+    bottom: 299px;
+    left: 221px;
+    color:white;
+}
+
+.time{
+    position: relative;
+    right: 25px;
+}

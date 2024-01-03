@@ -1,0 +1,42 @@
+#card{
+    float: left;
+    margin: 0;
+    width: 444px;
+    display: block;
+    border: 1px solid #75b798;
+    
+}
+img{
+    display: inline;
+    width: 263px;
+    /* margin: auto; */
+}
+.container{
+    margin: 0;
+    padding: 0;
+}
+#deletetodo{
+    /* display: inline; */
+    width: 444px;
+    /* margin: auto; */
+}
+
+p {
+    margin-top: 0;
+    /* display: inline; */
+    /* margin: auto; */
+    margin-bottom: 1rem;
+    width: auto;
+}
+
+
+h3{ 
+    /* display: inline; */
+        width: auto;
+        /* margin: auto; */
+    
+}
+
+#TODO_Title{
+    width: max-content;
+}

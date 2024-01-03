@@ -1,0 +1,45 @@
+.navbarul li{
+    float:left;
+    list-style: none;
+    padding: 4px 37px;
+    color: white;
+    
+    
+    /* display: block; */
+}
+.navbarul{
+    border-radius: 17px;
+    border: 2px solid black;
+    overflow: auto;
+    background-color: rgb(24, 23, 23);
+}
+
+h1.hello-h{
+    clear: both;
+}
+.navbarul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-family: Ubuntu, "Sans-serif";
+    font-weight: 400;
+}
+.navbarul li a:hover{
+    color: rgb(90, 79, 79);
+}
+#btn{
+    background-color: rgb(177, 86, 86);
+    padding: 4px;
+}
+
+#btn:hover{
+    cursor: pointer;
+}
+#btn2{
+    background-color: #0072ff;
+    padding: 4px;
+}
+
+#btn2:hover{
+    cursor: pointer;
+}
